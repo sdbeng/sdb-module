@@ -1,10 +1,10 @@
 {
   "name": "sdb-module",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "my first npm module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.test.js"
   },
   "keywords": [
     "npm",
