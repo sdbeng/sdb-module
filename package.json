@@ -1,0 +1,18 @@
+{
+  "name": "sdb-module",
+  "version": "1.1.2",
+  "description": "my first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "Serg",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
