@@ -5,13 +5,13 @@ My first npm module. It's a simple command line app greeter.
 ### Installation instructions
 1- First make your folder project, then do:
 ```
-npm init
+npm init -y
 touch app.js 
 ```
 and copy this code,
 ```
 const greeter = require('sdb-module')
-consol.log(greeter())
+console.log(greeter())
 ```
 
 2- Then, you can install the package (locally) 
