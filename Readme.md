@@ -8,13 +8,13 @@ My first npm module. It's a simple command line app greeter.
 npm init -y
 touch app.js 
 ```
-and copy this code,
+copy this code:
 ```
 const greeter = require('sdb-module')
 console.log(greeter())
 ```
 
-2- Then, you can install the package (locally) 
+2- Install the package (locally) 
    npm install sdb-module 
 
    then execute
@@ -26,7 +26,7 @@ console.log(greeter())
 
    npm i -g sdb-module
 
-3- Then do:
+3- Use:
 
    ```
    greeter
